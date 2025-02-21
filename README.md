@@ -2,26 +2,26 @@
 
 **`Desenvolvedor FullStack`**
 
-👋 Olá! Eu sou o Laercio Varela
+👋 Olá! Eu sou o Laercio Varela<br>
 🎓 Estudante de Ciência da Computação | 💻 Apaixonado por Tecnologia | 🚀 Buscando crescimento na área de desenvolvimento fullstack e cybersecurity
+<br>
+📌 Sobre mim <br>
+🎓 Cursando o 3º período de Ciência da Computação na Uninorte <br>
+🌍 Natural de Manaus, Brasil <br>
+💡 Apaixonado por tecnologia desde criança, sempre buscando aprender e evoluir <br>
+🔍 Interesse especial em desenvolvimento fullstack e cybersecurity <br>
+🚀 Habilidades e Tecnologias <br>
+Linguagens: Python, Java, C, Javascript <br>
+Banco de Dados: MySQL <br>
+Ferramentas: Git, GitHub <br>
+Áreas de Interesse: Desenvolvimento Backend, Segurança da Informação, Testes de Software <br>
+🌱 Em aprendizado <br>
+Atualmente estou aprofundando meus conhecimentos em: <br>
 
-📌 Sobre mim
-🎓 Cursando o 3º período de Ciência da Computação na Uninorte
-🌍 Natural de Manaus, Brasil
-💡 Apaixonado por tecnologia desde criança, sempre buscando aprender e evoluir
-🔍 Interesse especial em desenvolvimento fullstack e cybersecurity
-🚀 Habilidades e Tecnologias
-Linguagens: Python, Java, C, Javascript 
-Banco de Dados: MySQL
-Ferramentas: Git, GitHub
-Áreas de Interesse: Desenvolvimento Backend, Segurança da Informação, Testes de Software
-🌱 Em aprendizado
-Atualmente estou aprofundando meus conhecimentos em:
-
-🔹 Desenvolvimento backend
-🔹 Cybersecurity
-🔹 Testes de software e automação
-📫 Como me encontrar
+🔹 Desenvolvimento backend <br>
+🔹 Cybersecurity <br>
+🔹 Testes de software e automação <br>
+📫 Como me encontrar <br>
 📧 E-mail: [laerciovmneto@gmail.com]
 🔗 LinkedIn: [www.linkedin.com/in/laércio-varela-8a6893323]
 🚀 GitHub: [github.com/LaercioVarela] .
